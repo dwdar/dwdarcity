@@ -243,7 +243,7 @@ export default {
   height: 60px;
   line-height: 60px;
   list-style: none;
-  font-family: ALKATIP Basma Tom;
+  font-family: KazakhSoft Qaniq;
   font-size: 13px;
   color: #333;
   border-bottom: 1px solid #e9e9e9;
@@ -270,7 +270,7 @@ export default {
   background: #f3f3f3;
   -ms-flex-align: center;
   align-items: center;
-  font-family: ALKATIP Basma Tom;
+  font-family: KazakhSoft Qaniq;
 }
 
 .order-time {
@@ -316,7 +316,7 @@ export default {
   font-size: 13px;
   color: #333;
   line-height: 20px;
-  font-family: ALKATIP Basma Tom;
+  font-family: KazakhSoft Qaniq;
   margin-top: -10px;
 }
 
@@ -341,7 +341,7 @@ export default {
 .user-data-list .course-expire {
   font-size: 12px;
   color: #ff5502;
-  font-family: ALKATIP Basma Tom;
+  font-family: KazakhSoft Qaniq;
   width: 60px;
 
   text-align: center;
@@ -356,7 +356,7 @@ export default {
   border-radius: 4px;
   border: none;
   outline: none;
-  font-family: ALKATIP Basma Tom;
+  font-family: KazakhSoft Qaniq;
   transition: all .25s ease;
   display: inline-block;
   line-height: 32px;

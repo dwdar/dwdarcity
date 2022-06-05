@@ -435,7 +435,7 @@ export default {
   cursor: pointer;
   margin-left: 15px;
   outline: none;
-  font-family: ALKATIP Basma Tom;
+  font-family: KazakhSoft Qaniq;
 }
 
 .buy .free {
@@ -447,7 +447,7 @@ export default {
   background: #fff;
   color: #ffc210;
   border: 1px solid #ffc210;
-  font-family: ALKATIP Basma Tom;
+  font-family: KazakhSoft Qaniq;
 }
 
 .add-cart {

@@ -423,14 +423,14 @@ export default {
   font-size: 14px;
   color: #666;
   margin-bottom: 8px;
-  font-family: ALKATIP Basma Tom;
+  font-family: KazakhSoft Qaniq;
 }
 
 .study-data li div b {
   font-weight: 400;
   font-size: 24px;
   color: #4a4a4a;
-  font-family: ALKATIP Basma Tom;
+  font-family: KazakhSoft Qaniq;
 }
 
 .study-data li div .button-group {
@@ -441,7 +441,7 @@ export default {
   font-size: 14px;
   color: #4a90e2;
   margin-top: 8px;
-  font-family: ALKATIP Basma Tom;
+  font-family: KazakhSoft Qaniq;
   cursor: pointer;
 }
 
@@ -466,7 +466,7 @@ export default {
   color: #5e5e5e;
   letter-spacing: .23px;
   margin-bottom: 8px;
-  font-family: ALKATIP Basma Tom;
+  font-family: KazakhSoft Qaniq;
   text-align: center;
 }
 
@@ -487,7 +487,7 @@ export default {
 
 .study-head .mentor .time span {
   color: #fa6240;
-  font-family: ALKATIP Basma Tom;
+  font-family: KazakhSoft Qaniq;
 }
 
 .mentor .teacher {
@@ -504,7 +504,7 @@ export default {
 }
 
 .mentor .teacher .name {
-  font-family: ALKATIP Basma Tom;
+  font-family: KazakhSoft Qaniq;
   font-size: 14px;
   color: #4a4a4a;
 }
@@ -518,7 +518,7 @@ export default {
   color: #4a4a4a;
   margin-top: 6px;
   margin-bottom: 11px;
-  font-family: ALKATIP Basma Tom;
+  font-family: KazakhSoft Qaniq;
 }
 
 .mentor .teacher button {
@@ -529,7 +529,7 @@ export default {
   border-radius: 4px;
   background: #4bb6db;
   line-height: 32px;
-  font-family: ALKATIP Basma Tom;
+  font-family: KazakhSoft Qaniq;
 }
 
 .mentor .teacher .button2 {
@@ -562,7 +562,7 @@ export default {
 .main .nav li {
   height: 74px;
   text-align: center;
-  font-family: ALKATIP Basma Tom;
+  font-family: KazakhSoft Qaniq;
   font-size: 18px;
   color: #000;
   padding: 0 10px;
@@ -574,7 +574,7 @@ export default {
 .main .nav .active-link {
   color: #ffc210;
   border-bottom: 2px solid #ffc210;
-  font-family: ALKATIP Basma Tom;
+  font-family: KazakhSoft Qaniq;
 }
 
 .main .empty-tip {
@@ -593,7 +593,7 @@ export default {
   font-size: 18px;
   color: #9d9d9d;
   display: block;
-  font-family: ALKATIP Basma Tom;
+  font-family: KazakhSoft Qaniq;
   line-height: 30px;
 }
 
@@ -641,7 +641,7 @@ export default {
   border-bottom: 1px solid rgba(0, 0, 0, .05);
   padding: 20px;
   box-sizing: border-box;
-  font-family: ALKATIP Basma Tom;
+  font-family: KazakhSoft Qaniq;
   position: relative;
 }
 
@@ -716,7 +716,7 @@ export default {
   padding-bottom: 5px;
   color: #666;
   text-align: center;
-  font-family: ALKATIP Basma Tom;
+  font-family: KazakhSoft Qaniq;
 }
 
 .my_course .content-box {
@@ -731,7 +731,7 @@ export default {
   display: flex;
   align-items: center;
   justify-content: space-between;
-  font-family: ALKATIP Basma Tom;
+  font-family: KazakhSoft Qaniq;
   border-bottom: 1px solid #f2f2f2;
   padding: 20px 25px;
 }
@@ -787,7 +787,7 @@ export default {
 .course-item .course-state p:first-of-type {
   font-size: 16px;
   color: #9d9d9d;
-  font-family: ALKATIP Basma Tom;
+  font-family: KazakhSoft Qaniq;
 }
 
 .course-item .course-state p:first-of-type span {
@@ -821,7 +821,7 @@ export default {
   margin-right: 26px;
   background: #ffc210;
   border: 1px solid #ffc210;
-  font-family: ALKATIP Basma Tom;
+  font-family: KazakhSoft Qaniq;
 }
 
 .my_course .content-box .course-module {
@@ -836,7 +836,7 @@ export default {
   font-size: 16px;
   line-height: 18px;
   padding: 16px 20px;
-  font-family: ALKATIP Basma Tom;
+  font-family: KazakhSoft Qaniq;
   background: #f6f6f6;
   box-shadow: 0 0 0 0 #f3f3f3;
   cursor: pointer;
@@ -877,7 +877,7 @@ export default {
   background: #ffc210;
   border: 1px solid #ffc210;
   border-radius: 4px;
-  font-family: ALKATIP Basma Tom;
+  font-family: KazakhSoft Qaniq;
   font-size: 16px;
   color: #fff;
   position: absolute;
@@ -914,7 +914,7 @@ export default {
   font-size: 16px;
   color: #666;
   margin-right: 10px;
-  font-family: ALKATIP Basma Tom;
+  font-family: KazakhSoft Qaniq;
 }
 
 
@@ -1024,7 +1024,7 @@ export default {
   font-weight: 200;
   display: block;
   margin-top: 16px;
-  font-family: ALKATIP Basma Tom;
+  font-family: KazakhSoft Qaniq;
 }
 
 .dropzone .dz-message .note strong {

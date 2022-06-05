@@ -32,7 +32,7 @@
 
 ## 源码地址
 
-gitee地址(主推)：https://gitee.com/dwdar/dwdarcity.git👩‍👦‍👦
+gitee地址(主推)：https://gitee.com/dwdar/dwdarcity.git
 
 github地址：...
 
